@@ -39,7 +39,7 @@ dependencies {
     implementation(libs.constraintlayout)
     implementation("com.squareup.okhttp3:okhttp:3.4.1")
     implementation("com.google.code.gson:gson:2.7")
-    implementation("com.github.bumptech.glide:glide:3.7.0")
+    implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation(files("libs\\litepal-1.4.1.jar"))
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
